@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  score: 1
+  source_id: 1
+  assesment_prompt_id: 1
+  user_id: 1
+  data_source_url: MyString
+  data_source_name: MyString
+  creator_meta: MyString
+  dependency_meta: MyString
+  callback_meta: MyString
+
+two:
+  score: 1
+  source_id: 1
+  assesment_prompt_id: 1
+  user_id: 1
+  data_source_url: MyString
+  data_source_name: MyString
+  creator_meta: MyString
+  dependency_meta: MyString
+  callback_meta: MyString

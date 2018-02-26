@@ -1,0 +1,2 @@
+class ClientAccess < ApplicationRecord
+end
