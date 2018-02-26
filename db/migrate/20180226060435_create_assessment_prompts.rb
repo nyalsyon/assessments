@@ -1,7 +1,6 @@
 class CreateAssessmentPrompts < ActiveRecord::Migration[5.1]
   def change
     create_table :assessment_prompts do |t|
-      t.integer :assessable_id
       t.integer :position
       t.string :description
       t.string :hint
