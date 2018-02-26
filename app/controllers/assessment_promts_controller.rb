@@ -1,2 +1,0 @@
-class AssessmentPromtsController < ApplicationController
-end

@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class AssessmentPromtsControllerTest < ActionDispatch::IntegrationTest
+class AssessmentPromptsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
